@@ -21,7 +21,10 @@
   "pre-commit": [
     "lint"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
   "devDependencies": {
     "babel": "5.x.x",
     "babel-core": "5.x.x",
